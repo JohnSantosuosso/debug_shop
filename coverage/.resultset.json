@@ -297,10 +297,11 @@
           null
         ]
       },
-      "/Users/johnsantosuosso/debug_shop/debug_shop/app/models/item.rb": {
+      "/Users/johnsantosuosso/debug_shop/debug_shop/app/models/merchant.rb": {
         "lines": [
           1,
           1,
+          null,
           null
         ]
       },
@@ -311,15 +312,58 @@
           null
         ]
       },
-      "/Users/johnsantosuosso/debug_shop/debug_shop/app/models/merchant.rb": {
+      "/Users/johnsantosuosso/debug_shop/debug_shop/app/controllers/merchants_controller.rb": {
         "lines": [
           1,
+          null,
           1,
           null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/johnsantosuosso/debug_shop/debug_shop/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
           null
         ]
       }
     },
-    "timestamp": 1656206102
+    "timestamp": 1656208168
   }
 }
